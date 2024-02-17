@@ -1,5 +1,3 @@
 # belajar-kolaborasi
 
-
-Belajar itu Menyenangkan!
-Semangat Belajar!
+Bissmillah jadi Network Engineer!
