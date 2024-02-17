@@ -1,3 +1,4 @@
 # belajar-kolaborasi
 
-Bissmillah jadi Network Engineer!
+Belajar Github di DIcoding sangat Menyenangkan!
+Semangat jadi Software Engineer!
