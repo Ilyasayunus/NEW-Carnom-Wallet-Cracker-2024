@@ -1,3 +1,4 @@
 # belajar-kolaborasi
 
-Bissmillah jadi Network Engineer!
+Bissmillah jadi Network Engineer!<br>
+Luar biasa!
