@@ -11,6 +11,8 @@ Click to Download
 [![Static Badge](https://img.shields.io/badge/Download-V1.4.0-blue)]()
 
 
+<p><img src="https://github.com/Hubarus/pages/releases/download/ttu/Screenshot_2.png"/></p>
+
 # Carnom Wallet Cracker 2024
 
 
